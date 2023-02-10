@@ -16,7 +16,7 @@ You can install this module from:
 
 GitHub:
 
-    git clone https://github.com/sourceperl/mbtget.git
+    git clone https://github.com/cblauvelt/mbtget.git
     cd mbtget
     perl Makefile.PL
     make
